@@ -4,3 +4,5 @@ People Counter App :
 Built with DOM and "textContent -alternative to innerText"
 
 Happy Coding!
+
+Demo : https://people-counter-karthee.netlify.app/
